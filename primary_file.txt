@@ -1,4 +1,4 @@
-this is the first file that i added to my project
+this was the first file that was added to the project
 
 this change was made in the branch new_features
 
