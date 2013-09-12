@@ -1,5 +1,7 @@
-this was the first file that was added to the project
+this was the first file now with conflicting changes
 
 this change was made in the branch new_features
 
 but now i add a new change from learning_branches branch
+
+
